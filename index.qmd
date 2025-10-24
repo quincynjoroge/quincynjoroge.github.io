@@ -1,15 +1,4 @@
 ---
-
----
-
-```{r}
-1 + 1
-```
-
-```{}
-```
-
----
 author: "Quincy Njoroge"
 date: "`r Sys.Date()`"
 format:
